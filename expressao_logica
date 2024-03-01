@@ -1,0 +1,4 @@
+2) S = (D v A ^ C) v ~(B v C) = v
+3) S = ~(A v B) = f
+4) S = ~(A ^ B) = v
+5) S = C v ~B ^ (A v ~D) = v
