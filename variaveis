@@ -4,7 +4,7 @@ real salario;
 texto cpf;
 real preco;
 inteiro temperatura;
-booleano casado;
+booleana casado;
 real nascimento;
 real vacinado;
 inteiro preco_gasolina;
